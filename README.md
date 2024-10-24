@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://habtamu.mopdportal.com/](https://habtamu.mopdportal.com/)
 
-- 📝 I regularly write articles on [https://medium.com/@habtamutesfaye678](https://medium.com/@habtamutesfaye678)
+- 📝 I regularly read articles on [https://medium.com/@habtamutesfaye678](https://medium.com/@habtamutesfaye678)
 
 - 💬 Ask me about **Django, React, JavaScript, Python**
 
