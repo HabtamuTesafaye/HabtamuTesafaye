@@ -6,7 +6,7 @@
 
 - 📝 I regularly read articles on [https://medium.com/@habtamutesfaye678](https://medium.com/@habtamutesfaye678)
 
-- 💬 Ask me about **Django, JavaScript, Python, Vue, Nuxt**
+- 💬 Ask me about **Django, JavaScript, Python, Vue, Nuxt, Go**
 
 - 📫 How to reach me **habtamutesfaye678@gmail.com**
 
