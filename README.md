@@ -2,15 +2,10 @@
 
 <h3 align="center">A passionate Full stack developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://habtamu.mopdportal.com/](https://habtamu.mopdportal.com/)
-
-- 📝 I regularly read articles on [https://medium.com/@habtamutesfaye678](https://medium.com/@habtamutesfaye678)
-
 - 💬 Ask me about **Django, JavaScript, Python, Vue, Nuxt, Go**
 
 - 📫 How to reach me **habtamutesfaye678@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mtnDl7L4GBlxFN-ivERwiOuetkqPPVA6/view?usp=sharing](https://drive.google.com/file/d/1mtnDl7L4GBlxFN-ivERwiOuetkqPPVA6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
