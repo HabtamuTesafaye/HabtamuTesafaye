@@ -40,6 +40,6 @@
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="filter: invert(31%) sepia(100%) saturate(592%) hue-rotate(243deg) brightness(90%) contrast(88%);"/> </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HabtamuTesafaye&theme=onedark)](https://github.com/HabtamuTesafaye/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/HabtamuTesafaye/github-profile-trophy)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habtamutesfaye" alt="habtamutesfaye" /></p>
