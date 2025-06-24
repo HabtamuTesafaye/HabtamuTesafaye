@@ -74,7 +74,7 @@ I'm a passionate software engineer driven by curiosity and a love for solving re
 
 <h3 >🏆 GitHub Stats</h3>
 <p >
-  <img src="https://github-profile-trophy.vercel.app/?username=habtamutesfaye&theme=tokyonight&hide_border=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HabtamuTesafaye&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="Trophies" />
 </p>
 
 <p >
