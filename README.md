@@ -61,7 +61,7 @@ I'm a passionate software engineer driven by curiosity and a love for solving re
 
 <p align="center">
   <!-- Trophy board -->
-  <img src="https://github-profile-trophy.vercel.app/?username=habtamutesfaye&theme=tokyonight&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=habtamutesfaye&theme=tokyonight&hide_border=true&row=1&column=6" alt="Trophies" />
 </p>
 
 <h3 align="center">🔥 GitHub Streak</h3>
@@ -72,7 +72,7 @@ I'm a passionate software engineer driven by curiosity and a love for solving re
     alt="GitHub Streak"
   />
 </p>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HabtamuTesafaye&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 
 ### 🌐 Connect With Me
