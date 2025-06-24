@@ -55,12 +55,17 @@ I'm a passionate software engineer driven by curiosity and a love for solving re
 - AI-powered tools for backend innovation
 
 ---
-
----
-
 <p >
   <img src="https://komarev.com/ghpvc/?username=habtamutesfaye&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/habtamutesfaye?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
+</p>
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/habtamu-tesfaye-4285551b5" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
 </p>
 
 ---
@@ -80,16 +85,6 @@ I'm a passionate software engineer driven by curiosity and a love for solving re
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabtamuTesafaye&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/habtamu-tesfaye-4285551b5" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
-  </a>
 </p>
 
 ---
