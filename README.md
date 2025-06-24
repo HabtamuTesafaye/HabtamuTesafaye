@@ -82,8 +82,8 @@ I'm a passionate software engineer driven by curiosity and a love for solving re
 </p>
 
 <p >
-  <img src="https://github-readme-stats.vercel.app/api?username=HabtamuTesafaye&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabtamuTesafaye&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Profile stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HabtamuTesafaye&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"  style="margin-right: 20px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabtamuTesafaye&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Profile stats"  />
 </p>
 
 ---
