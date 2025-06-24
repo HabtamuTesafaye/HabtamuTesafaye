@@ -69,12 +69,11 @@ I'm a passionate software engineer driven by curiosity and a love for solving re
 
 ---
 
-<h3 align="center">🏆 GitHub Stats</h3>
+<h3 >🏆 GitHub Stats</h3>
 <p >
   <img src="https://github-profile-trophy.vercel.app/?username=habtamutesfaye&theme=tokyonight&hide_border=true&row=1&column=6" alt="Trophies" />
 </p>
 
-<h3 align="center">🔥 GitHub Streak</h3>
 <p >
   <img
     src="https://streak-stats.vercel.app?user=habtamutesfaye&theme=tokyonight&hide_border=false"
