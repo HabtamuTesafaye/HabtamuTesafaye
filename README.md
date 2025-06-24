@@ -15,13 +15,7 @@
 ### 🔥 About Me
 
 I'm a passionate software engineer driven by curiosity and a love for solving real-world problems through technology.  
-I started learning software engineering because **[INSERT YOUR INSPIRATION]**.  
-
 🌱 Currently enrolled in the **ALX Pro Backend Program**, I’m focused on building robust, scalable, and secure backend systems.
-
-🧭 My goal is to **[INSERT YOUR VISION – e.g., "build inclusive digital solutions that empower underserved communities."]**
-
-💡 I enjoy working on projects that involve **[INSERT TYPES OF PROJECTS – e.g., API design, system architecture, real-time applications, and developer tooling]**.
 
 ---
 
