@@ -57,12 +57,22 @@ I'm a passionate software engineer driven by curiosity and a love for solving re
 ---
 
 
-### 🏆 GitHub Stats
+<!-- GitHub Stats -->
+<h3 align="center">🏆 GitHub Stats</h3>
 
 <p align="center">
+  <!-- Trophy board -->
   <img src="https://github-profile-trophy.vercel.app/?username=habtamutesfaye&theme=tokyonight&row=1&column=6" alt="Trophies" />
+
   <br />
-  [![GitHub Streak](https://streak-stats.demolab.com?user=HabtamuTesafaye)](https://git.io/streak-stats)
+
+  <!-- Streak badge (HTML, not Markdown) -->
+  <a href="https://git.io/streak-stats" target="_blank">
+    <img
+      src="https://streak-stats.demolab.com?user=habtamutesfaye&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+      alt="GitHub Streak"
+    />
+  </a>
 </p>
 
 
