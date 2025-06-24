@@ -68,12 +68,10 @@ I'm a passionate software engineer driven by curiosity and a love for solving re
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=habtamutesfaye&theme=tokyonight&hide_border=false"
+    src="https://streak-stats.vercel.app?user=habtamutesfaye&theme=tokyonight&hide_border=false"
     alt="GitHub Streak"
   />
 </p>
-
-
 
 ---
 
