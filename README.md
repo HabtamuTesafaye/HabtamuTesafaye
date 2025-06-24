@@ -56,6 +56,15 @@ I'm a passionate software engineer driven by curiosity and a love for solving re
 
 ---
 
+---
+
+<p >
+  <img src="https://komarev.com/ghpvc/?username=habtamutesfaye&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/habtamutesfaye?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
+</p>
+
+---
+
 <h3 align="center">🏆 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=habtamutesfaye&theme=tokyonight&hide_border=true&row=1&column=6" alt="Trophies" />
@@ -70,18 +79,10 @@ I'm a passionate software engineer driven by curiosity and a love for solving re
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habtamutesfaye&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabtamuTesafaye&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---
-
-### 📊 GitHub Summary
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=habtamutesfaye&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/habtamutesfaye?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
-</p>
-
 
 ### 🌐 Connect With Me
 
