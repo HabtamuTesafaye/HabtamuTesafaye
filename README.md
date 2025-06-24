@@ -87,6 +87,16 @@ I'm a passionate software engineer driven by curiosity and a love for solving re
 
 ### 📈 Profile Views
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=habtamutesfaye&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=habtamutesfaye&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+  
+  <!-- GitHub Followers -->
+  <img src="https://img.shields.io/github/followers/habtamutesfaye?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
+
+  <!-- GitHub Stars -->
+  <img src="https://img.shields.io/github/stars/habtamutesfaye?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
+
+  <!-- Public Repositories -->
+  <img src="https://img.shields.io/github/repos/habtamutesfaye?label=Repos&style=flat-square&color=orange" alt="GitHub Repos" />
 </p>
