@@ -15,7 +15,7 @@
 ### 🔥 About Me
 
 I'm a passionate software engineer driven by curiosity and a love for solving real-world problems through technology.  
-🌱 Currently enrolled in the **ALX Pro Backend Program**, I’m focused on building robust, scalable, and secure backend systems.
+🌱 Currently enrolled in the **ALX Pro Backend Program and AWS program**, I’m focused on building robust, scalable, and secure backend systems.
 
 <p >
   <img src="https://komarev.com/ghpvc/?username=HabtamuTesafaye&label=Profile+Views&color=blue&style=flat-square&abbreviated=true" alt="Profile Views" />
