@@ -18,7 +18,7 @@ I'm a passionate software engineer driven by curiosity and a love for solving re
 🌱 Currently enrolled in the **ALX Pro Backend Program**, I’m focused on building robust, scalable, and secure backend systems.
 
 <p >
-  <img src="https://komarev.com/ghpvc/?username=habtamutesfaye&label=Profile+Views&color=blue&style=flat-square&abbreviated=true" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=HabtamuTesafaye&label=Profile+Views&color=blue&style=flat-square&abbreviated=true" alt="Profile Views" />
   &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -34,7 +34,6 @@ I'm a passionate software engineer driven by curiosity and a love for solving re
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
     <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
     <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
@@ -78,7 +77,7 @@ I'm a passionate software engineer driven by curiosity and a love for solving re
 
 <p >
   <img
-    src="https://streak-stats.vercel.app?user=habtamutesfaye&theme=tokyonight&hide_border=false"
+    src="https://streak-stats.vercel.app?user=HabtamuTesafaye&theme=tokyonight&hide_border=false"
     alt="GitHub Streak"
   />
 </p>
