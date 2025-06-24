@@ -1,22 +1,32 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hello!" /> , I'm Habtamu Tesfaye</h1>
+<!-- GitHub Profile README -->
 
-<h3 align="center">A passionate Full stack developer</h3>
+<h1 align="center">
+  Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" />, I'm Habtamu Tesfaye
+</h1>
 
-- 💬 Ask me about **Django, JavaScript, Python, Vue, Nuxt, Go**
+<h3 align="center">🚀 Backend-Focused Full Stack Developer | ALX Pro Backend Learner</h3>
 
-- 📫 How to reach me **habtamutesfaye678@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://www.linkedin.com/in/habtamu-tesfaye-4285551b5" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
-    </a>
+<p align="center">
+  🌍 Ethiopia &nbsp; | &nbsp; 💼 Open to remote & on-site opportunities &nbsp; | &nbsp; 📫 habtamutesfaye678@gmail.com
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=habtamutesfaye&label=Profile%20views&color=0e75b6&style=flat" alt="habtamutesfaye" /> </p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🔥 About Me
+
+I'm a passionate software engineer driven by curiosity and a love for solving real-world problems through technology.  
+I started learning software engineering because **[INSERT YOUR INSPIRATION]**.  
+
+🌱 Currently enrolled in the **ALX Pro Backend Program**, I’m focused on building robust, scalable, and secure backend systems.
+
+🧭 My goal is to **[INSERT YOUR VISION – e.g., "build inclusive digital solutions that empower underserved communities."]**
+
+💡 I enjoy working on projects that involve **[INSERT TYPES OF PROJECTS – e.g., API design, system architecture, real-time applications, and developer tooling]**.
+
+---
+
+### 🧰 Languages & Tools
+
 <p align="left">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -40,6 +50,50 @@
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="filter: invert(31%) sepia(100%) saturate(592%) hue-rotate(243deg) brightness(90%) contrast(88%);"/> </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/HabtamuTesafaye/github-profile-trophy)
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habtamutesfaye" alt="habtamutesfaye" /></p>
+### 🌱 What I'm Learning Now
+
+- Advanced Golang backend architecture
+- Real-time systems with WebSockets
+- Postgres optimization & GraphQL schema design
+- Dockerized microservices + CI/CD with GitHub Actions
+- AI-powered tools for backend innovation
+
+---
+
+
+### 🏆 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=habtamutesfaye&theme=tokyonight" alt="Streak Stats" />
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=habtamutesfaye&theme=tokyonight&row=1&column=6" alt="Trophies" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/habtamu-tesfaye-4285551b5" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+</p>
+
+---
+
+### 💬 Let's Collaborate
+
+I’m open to:
+- 🚀 Building impactful backend-focused open-source projects
+- 🔍 Freelance opportunities in backend or full-stack
+- 🤝 Mentoring and pairing with other learners
+
+---
+
+### 📈 Profile Views
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=habtamutesfaye&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
