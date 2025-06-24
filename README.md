@@ -16,10 +16,15 @@
 
 I'm a passionate software engineer driven by curiosity and a love for solving real-world problems through technology.  
 🌱 Currently enrolled in the **ALX Pro Backend Program**, I’m focused on building robust, scalable, and secure backend systems.
-<p >
+
+---
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=habtamutesfaye&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/habtamutesfaye?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
 </p>
+
 ---
 
 ### 🧰 Languages & Tools
