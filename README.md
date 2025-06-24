@@ -74,7 +74,7 @@ I'm a passionate software engineer driven by curiosity and a love for solving re
 </p>
 <p align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habtamutesfaye&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabtamuTesafaye&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 ---
 
@@ -96,19 +96,4 @@ I'm a passionate software engineer driven by curiosity and a love for solving re
   
   <!-- Followers -->
   <img src="https://img.shields.io/github/followers/habtamutesfaye?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
-
-  <!-- Stars -->
-  <img src="https://img.shields.io/github/stars/habtamutesfaye?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
-
-  <!-- Total Commits (Current Year) -->
-  <img src="https://img.shields.io/github/commit-activity/y/habtamutesfaye/habtamutesfaye?label=Commits%20(2024)&style=flat-square&color=success" alt="Commit Activity" />
-
-  <!-- PRs -->
-  <img src="https://img.shields.io/badge/Pull%20Requests-Open%20&%20Merged-green?style=flat-square" alt="Pull Requests" />
-
-  <!-- Issues -->
-  <img src="https://img.shields.io/badge/Issues-Tracked%20&%20Raised-orange?style=flat-square" alt="Issues" />
-
-  <!-- Contributed To -->
-  <img src="https://img.shields.io/badge/Repos%20Contributed%20To-20%2B-blueviolet?style=flat-square" alt="Contributions" />
 </p>
