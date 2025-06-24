@@ -16,7 +16,10 @@
 
 I'm a passionate software engineer driven by curiosity and a love for solving real-world problems through technology.  
 🌱 Currently enrolled in the **ALX Pro Backend Program**, I’m focused on building robust, scalable, and secure backend systems.
-
+<p >
+  <img src="https://komarev.com/ghpvc/?username=habtamutesfaye&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/habtamutesfaye?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
+</p>
 ---
 
 ### 🧰 Languages & Tools
@@ -55,10 +58,6 @@ I'm a passionate software engineer driven by curiosity and a love for solving re
 - AI-powered tools for backend innovation
 
 ---
-<p >
-  <img src="https://komarev.com/ghpvc/?username=habtamutesfaye&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/habtamutesfaye?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
-</p>
 
 ### 🌐 Connect With Me
 
@@ -71,19 +70,19 @@ I'm a passionate software engineer driven by curiosity and a love for solving re
 ---
 
 <h3 align="center">🏆 GitHub Stats</h3>
-<p align="center">
+<p >
   <img src="https://github-profile-trophy.vercel.app/?username=habtamutesfaye&theme=tokyonight&hide_border=true&row=1&column=6" alt="Trophies" />
 </p>
 
 <h3 align="center">🔥 GitHub Streak</h3>
-<p align="center">
+<p >
   <img
     src="https://streak-stats.vercel.app?user=habtamutesfaye&theme=tokyonight&hide_border=false"
     alt="GitHub Streak"
   />
 </p>
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabtamuTesafaye&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
