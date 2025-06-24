@@ -85,18 +85,27 @@ I'm a passionate software engineer driven by curiosity and a love for solving re
 
 ---
 
-### 📈 Profile Views
+### 📊 GitHub Summary
 
 <p align="center">
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=habtamutesfaye&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
   
-  <!-- GitHub Followers -->
+  <!-- Followers -->
   <img src="https://img.shields.io/github/followers/habtamutesfaye?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
 
-  <!-- GitHub Stars -->
+  <!-- Stars -->
   <img src="https://img.shields.io/github/stars/habtamutesfaye?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
 
-  <!-- Public Repositories -->
-  <img src="https://img.shields.io/github/repos/habtamutesfaye?label=Repos&style=flat-square&color=orange" alt="GitHub Repos" />
+  <!-- Total Commits (Current Year) -->
+  <img src="https://img.shields.io/github/commit-activity/y/habtamutesfaye/habtamutesfaye?label=Commits%20(2024)&style=flat-square&color=success" alt="Commit Activity" />
+
+  <!-- PRs -->
+  <img src="https://img.shields.io/badge/Pull%20Requests-Open%20&%20Merged-green?style=flat-square" alt="Pull Requests" />
+
+  <!-- Issues -->
+  <img src="https://img.shields.io/badge/Issues-Tracked%20&%20Raised-orange?style=flat-square" alt="Issues" />
+
+  <!-- Contributed To -->
+  <img src="https://img.shields.io/badge/Repos%20Contributed%20To-20%2B-blueviolet?style=flat-square" alt="Contributions" />
 </p>
