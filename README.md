@@ -83,15 +83,6 @@ I started learning software engineering because **[INSERT YOUR INSPIRATION]**.
 
 ---
 
-### 💬 Let's Collaborate
-
-I’m open to:
-- 🚀 Building impactful backend-focused open-source projects
-- 🔍 Freelance opportunities in backend or full-stack
-- 🤝 Mentoring and pairing with other learners
-
----
-
 ### 📈 Profile Views
 
 <p>
