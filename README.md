@@ -7,7 +7,7 @@
 <h3 align="center">🚀 Full Stack Developer</h3>
 
 <p align="center">
-  🌍 Ethiopia &nbsp; | &nbsp; 💼 Open to remote & on-site opportunities &nbsp; | &nbsp; 📫 habtamutesfaye678@gmail.com
+  🌍 Ethiopia &nbsp; | &nbsp; 💼 Open to remote & on-site opportunities &nbsp; | &nbsp; 📫 habtamu.t.bekelegmail.com
 </p>
 
 ---
