@@ -18,6 +18,8 @@ I'm a passionate software engineer driven by curiosity and a love for solving re
 
 ### Languages & Tools
 
+### Languages & Tools
+
 <table>
   <tr>
     <td align="center" width="60">
@@ -47,11 +49,11 @@ I'm a passionate software engineer driven by curiosity and a love for solving re
     <td align="center" width="60">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a><br/><sub>JavaScript</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="60">
       <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/></a><br/><sub>Jenkins</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="60">
       <a href="https://jestjs.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" height="40"/></a><br/><sub>Jest</sub>
     </td>
@@ -60,6 +62,9 @@ I'm a passionate software engineer driven by curiosity and a love for solving re
     </td>
     <td align="center" width="60">
       <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a><br/><sub>MySQL</sub>
+    </td>
+    <td align="center" width="60">
+      <a href="https://nuxtjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="40" height="40"/></a><br/><sub>Nuxt.js</sub>
     </td>
     <td align="center" width="60">
       <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a><br/><sub>PostgreSQL</sub>
@@ -75,6 +80,9 @@ I'm a passionate software engineer driven by curiosity and a love for solving re
     </td>
     <td align="center" width="60">
       <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a><br/><sub>TypeScript</sub>
+    </td>
+    <td align="center" width="60">
+      <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/></a><br/><sub>Vue.js</sub>
     </td>
   </tr>
 </table>
