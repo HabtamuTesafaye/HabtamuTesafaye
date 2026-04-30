@@ -18,8 +18,6 @@ I'm a passionate software engineer driven by curiosity and a love for solving re
 
 ### Languages & Tools
 
-### Languages & Tools
-
 <table>
   <tr>
     <td align="center" width="60">
