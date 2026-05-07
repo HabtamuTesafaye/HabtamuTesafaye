@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HabtamuTesafaye/HabtamuTesafaye/main/banners.png" alt="Habtamu Tesfaye Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/HabtamuTesafaye/HabtamuTesafaye/main/banner.png" alt="Habtamu Tesfaye Banner" width="100%" />
 </p>
 
 <p align="center">
