@@ -97,12 +97,21 @@ I'm a passionate software engineer driven by curiosity and a love for solving re
 
 ### 🌐 Connect With Me
 
+### 🌐 Connect With Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/habtamu-tesfaye-4285551b5" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
   </a>
-</p>
 
+  <a href="https://leetcode.com/habtamu_tesf/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40" />
+  </a>
+
+  <a href="https://twitter.com/HabtamuTes" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40" />
+  </a>
+</p>
 ---
 
 ### 🏆 GitHub Stats
