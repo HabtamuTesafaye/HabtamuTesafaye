@@ -10,7 +10,7 @@
 
 ### About Me
 
-I'm a passionate software engineer driven by curiosity and a love for solving real-world problems through technology.
+I'm a passionate software engineer  and a love for solving real-world problems through technology.
 
 ---
 
