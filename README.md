@@ -124,7 +124,7 @@ I'm a passionate software engineer driven by curiosity and a love for solving re
       <img src="https://streak-stats.demolab.com/?user=HabtamuTesafaye&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=HabtamuTesafaye&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Stats" />
+      <img src="https://github-readme-stats-nine-tau-31.vercel.app/api?username=HabtamuTesafaye&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Stats" />
     </td>
   </tr>
 </table>
@@ -134,7 +134,7 @@ I'm a passionate software engineer driven by curiosity and a love for solving re
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabtamuTesafaye&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-nine-tau-31.vercel.app/api/top-langs/?username=HabtamuTesafaye&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
