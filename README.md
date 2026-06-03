@@ -121,7 +121,7 @@ I'm a passionate software engineer driven by curiosity and a love for solving re
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=HabtamuTesafaye&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=HabtamuTesafaye&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=HabtamuTesafaye&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Stats" />
