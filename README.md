@@ -110,7 +110,6 @@ I'm a passionate software engineer driven by curiosity and a love for solving re
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40" />
   </a>
 </p>
----
 
 ### 🏆 GitHub Stats
 
