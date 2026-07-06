@@ -120,8 +120,7 @@ I'm a passionate software engineer  and a love for solving real-world problems t
 <table>
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=HabtamuTesafaye&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-    </td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HabtamuTesafaye&theme=tokyonight" alt="Profile Summary" width="100%" />    </td>
     <td>
       <img src="https://github-readme-stats-nine-tau-31.vercel.app/api?username=HabtamuTesafaye&theme=tokyonight&hide_border=false&include_all_commits=true&show_icons=true" alt="Stats" />
     </td>
