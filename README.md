@@ -132,7 +132,14 @@ I'm a passionate software engineer  and a love for solving real-world problems t
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HabtamuTesafaye&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats-nine-tau-31.vercel.app/api/top-langs/?username=HabtamuTesafaye&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-nine-tau-31.vercel.app/api/top-langs/?username=HabtamuTesafaye&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-profile-trophy.vercel.app/?username=HabtamuTesafaye&theme=tokyonight&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
+    </td>
+  </tr>
+</table>
 ---
