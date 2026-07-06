@@ -114,25 +114,26 @@ I'm a passionate software engineer  and a love for solving real-world problems t
 ### 🏆 GitHub Stats
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HabtamuTesafaye&theme=tokyonight" alt="Profile Summary" width="100%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=HabtamuTesafaye&card=profile" width="100%" />
 </p>
 
 <table>
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=HabtamuTesafaye&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+      <img src="https://github-stats-extended.vercel.app/api?username=HabtamuTesafaye&card=streak" />
     </td>
     <td>
-<img src="https://github-readme-stats.vercel.app/api?username=HabtamuTesafaye&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Stats" />    </td>
+      <img src="https://github-stats-extended.vercel.app/api?username=HabtamuTesafaye&card=stats" />
+    </td>
   </tr>
 </table>
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HabtamuTesafaye&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=HabtamuTesafaye&card=activity" width="100%" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-nine-tau-31.vercel.app/api/top-langs/?username=HabtamuTesafaye&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=HabtamuTesafaye&card=languages" />
 </p>
 
 ---
