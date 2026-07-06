@@ -114,7 +114,7 @@ I'm a passionate software engineer  and a love for solving real-world problems t
 ### 🏆 GitHub Stats
 
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=HabtamuTesafaye&card=profile" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HabtamuTesafaye&theme=tokyonight" alt="Profile Summary" width="100%" />
 </p>
 
 <table>
