@@ -116,7 +116,7 @@ I'm a passionate software engineer  and a love for solving real-world problems t
 <table>
   <tr>
     <td>
-      <img src="[https://streak-stats.demolab.com/?user=HabtamuTesafaye&theme=tokyonight&hide_border=false](https://streak-stats.demolab.com/?user=HabtamuTesafaye&theme=tokyonight)" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=HabtamuTesafaye&theme=tokyonight" alt="GitHub Streak" />
     </td>
     <td>
       <img src="https://github-readme-stats-nine-tau-31.vercel.app/api?username=HabtamuTesafaye&theme=tokyonight&hide_border=false&include_all_commits=true&show_icons=true" alt="Stats" />
