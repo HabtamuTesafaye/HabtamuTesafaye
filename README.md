@@ -120,10 +120,10 @@ I'm a passionate software engineer  and a love for solving real-world problems t
 <table>
   <tr>
     <td>
-      <img src="https://github-stats-extended.vercel.app/api?username=HabtamuTesafaye&card=streak" />
+      <img src="https://github-stats-extended.vercel.app/api?username=HabtamuTesafaye&card=streak&theme=tokyonight" />
     </td>
     <td>
-      <img src="https://github-stats-extended.vercel.app/api?username=HabtamuTesafaye&card=stats" />
+      <img src="https://github-stats-extended.vercel.app/api?username=HabtamuTesafaye&card=stats&theme=tokyonight" />
     </td>
   </tr>
 </table>
