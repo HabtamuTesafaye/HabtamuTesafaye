@@ -117,12 +117,12 @@ I'm a passionate software engineer  and a love for solving real-world problems t
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HabtamuTesafaye&theme=tokyonight" alt="Profile Summary" width="100%" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=HabtamuTesafaye&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HabtamuTesafaye&theme=tokyonight" />
+<p align="right">
+      <img src="https://github-stats-extended.vercel.app/api?username=HabtamuTesafaye&card=stats&theme=tokyonight" />
 </p>
 
 <p align="left">
