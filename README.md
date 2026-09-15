@@ -10,7 +10,7 @@
 
 ### About Me
 
-I'm a passionate software engineer  and a love for solving real-world problems through technology.
+I'm a passionate software engineer and a love for solving real-world problems through technology.
 
 ---
 
@@ -129,7 +129,7 @@ I'm a passionate software engineer  and a love for solving real-world problems t
 </p>
 
 <p align="left">
-  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=HabtamuTesafaye&theme=tokyo-night&hide_border=true](https://github-readme-activity-graph-mu-two.vercel.app/graph?username=HabtamuTesafaye&theme=tokyo-night&hide_border=true)" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph-mu-two.vercel.app/graph?username=HabtamuTesafaye&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 <table>
